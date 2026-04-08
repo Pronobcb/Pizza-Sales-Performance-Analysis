@@ -60,20 +60,20 @@ The dataset includes:
 
 ---
 ## 💡 Skills Demonstrated
--Data Analysis
-=Dashboard Development
--Business Insight Generation
-=Data Visualization
+- Data Analysis
+- Dashboard Development
+- Business Insight Generation
+- Data Visualization
 ---
 ## 🚀 How to Use
-Download the file
-Open in Desktop
-Interact using filters and visuals
+- Download the file
+- Open in Desktop
+- Interact using filters and visuals
 ---
 ## 📌 Author
 PRONOB CHAKROBORTY
-LinkedIn : www.linkedin.com/in/pronobcb
-Email : pronob.stat@gmail.com
+- LinkedIn : www.linkedin.com/in/pronobcb
+- Email : pronob.stat@gmail.com
 ---
 ## ⭐ Feedback
-If you like this project, feel free to star ⭐ the repository and share your feedback!
+- If you like this project, feel free to star ⭐ the repository and share your feedback!
