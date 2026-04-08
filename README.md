@@ -26,12 +26,10 @@ This project presents an interactive **Pizza Sales Dashboard** designed to analy
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard 1](<img width="1201" height="686" alt="Pizza Sales Analysis Dashboard-1" src="https://github.com/user-attachments/assets/8eabc531-15d3-4422-a354-02576f1857a1" />
-)
+<img width="1201" height="686" alt="Pizza Sales Analysis Dashboard-1" src="https://github.com/user-attachments/assets/8eabc531-15d3-4422-a354-02576f1857a1" />
 
 ### 🔹 Best & Worst Sellers
-![Dashboard 2](<img width="1215" height="676" alt="Pizza Sales Analysis Dashboard-2" src="https://github.com/user-attachments/assets/be390f73-07b0-45fe-b025-b894db93072a" />
-)
+<img width="1215" height="676" alt="Pizza Sales Analysis Dashboard-2" src="https://github.com/user-attachments/assets/be390f73-07b0-45fe-b025-b894db93072a" />
 
 ---
 
