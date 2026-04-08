@@ -30,9 +30,11 @@ This project presents an interactive **Pizza Sales Dashboard** designed to analy
 
 ### 🔹 Best & Worst Sellers
 <img width="1215" height="676" alt="Pizza Sales Analysis Dashboard-2" src="https://github.com/user-attachments/assets/be390f73-07b0-45fe-b025-b894db93072a" />
+
 ---
 ## 📂Report
 <a href="https://github.com/Pronobcb/Pizza-Sales-Performance-Analysis/blob/main/Pizza%20Sales%20Report.pdf">Report View </a>
+
 ---
 
 ## 🔍 Key Insights
